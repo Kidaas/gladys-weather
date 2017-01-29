@@ -1,0 +1,14 @@
+{
+  "name": "gladys-weather",
+  "version": "0.2.0",
+  "description": "Gladys module for return weather.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kidaas",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "weather-js": "^1.0.2"
+  }
+}
